@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Menghao Yu"
   avatar           : "ZJZ.png"
   bio              : "Master of Fine Arts"
-  location         : "zhengzhou,China"
+  location         : "Zhengzhou,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
