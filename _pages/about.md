@@ -20,15 +20,12 @@ During my second year of graduate studies, I reflected on the possible life choi
 
 From sharing about my upbringing and my postgraduate entrance exam experience, on one hand, I aim to explain the reasons for my choice to pursue a doctorate based on my personal circumstances. On the other hand, I also wish to demonstrate something to the professors:
 
-[If you choose me, although I may not be the best, I will certainly be the most hardworking one.]
-
+[If you choose me, although I may not be the best, I will certainly be the most hardworking one.](https://yumengha.github.io/yumhao.github.io/)
 Please believe that I am not lacking in the effort to embrace success. What I lack is a better platform and resources.Hence, I've chosen to continue my climb on the academic path, and I choose to become your student and pursue further studies.
 
 
 As for why I say this, I hope to continue showing you a sincere and hardworking side of me, but this might take some of your time:
-
 If you wish to understand me more deeply, you can refer to the [Growth Diary] section.
-
 Additionally, after deciding that I wanted to pursue a doctorate, the efforts I've made towards this goal can be seen in the [publications] section.
 
 Getting started
