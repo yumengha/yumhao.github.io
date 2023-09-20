@@ -46,4 +46,4 @@ College of art and design，  Art&Design
 
 [Henan University of Science and Technology](https://www.haust.edu.cn/)， Undergraduate， 2016-2020
 
-college of art and design，  Industrial Design
+College of art and design，  Industrial Design
