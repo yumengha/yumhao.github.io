@@ -21,4 +21,4 @@ designed based on this design process can effectively meet the needs of two user
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper7.pdf)
 
-Recommended citation: Yu Menghao, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ[J], Packaging Engineering(2023).
+Recommended citation: Yu Menghao, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ[J], Packaging Engineering：1-14[2023-09-21]（http://kns.cnki.net/kcms/detail/50.1094.tb.20230612.1016.002.html）
