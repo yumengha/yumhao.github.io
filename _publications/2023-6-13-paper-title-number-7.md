@@ -15,8 +15,7 @@ QFD, construct the quality house of the product according to the relevant attrib
 and technical characteristics, calculate the absolute and relative weight values of each technical characteristic, and determine the autocorrelation between each technical characteristic, so as to discover the 
 possible conflicts in the design process. The conflict is described by applying TRIZ theory, and the appropriate separation principle and invention principle are selected to solve the conflict and get the innovative solution of product design. **Results** Based on the results of the analysis and calculation of user requirements and product technical characteristics and the application of TRIZ principles to resolve conflicts, the design of intelligent janitorial robot was completed. **Conclusion** The intelligent janitorial robot 
 designed based on this design process can effectively meet the needs of two user groups, property management staff and the general public, and the study provides a new idea as well as a reference for intelligent robots to help build a smart community.
-
-**KEY WORDS:** AHP; QFD; TRIZ; Janitorial robots
+**Keywords:** AHP; QFD; TRIZ; Janitorial robots
 
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper7.pdf)
