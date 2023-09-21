@@ -6,6 +6,7 @@ excerpt: 'As you can see, some of these papers have been successfully accepted, 
 date: 2023-9-14
 venue: 'Journal 1'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper5.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 this paper proposes a computer-aided design system (CADS) based on AIGC, and verifies the feasibility of CADS through the case of a center console in electric vehicles.
 
