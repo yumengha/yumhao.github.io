@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a computer-aided design system (CADS) based on AIG
 date: 2023-9-14
 venue: 'Journal of Intelligent & Fuzzy Systems, under review'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper8.pdf'
-citation: 'm.h.yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems(2023)'
+citation: 'M.H. Yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems (2023)'
 ---
 **Abstract** With the development of AI technology, AIGC applications represented by ChatGPT are continually emerging, 
 offering designers brand-new design tools. How designers should flexibly utilize the advantages of AIGC to expand creative 
@@ -22,4 +22,4 @@ based on AIGC.
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper8.pdf)
 
-Recommended citation: m.h.yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems(2023).
+Recommended citation: M.H. Yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems (2023).
