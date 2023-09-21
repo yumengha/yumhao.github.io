@@ -2,7 +2,7 @@
 title: "Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-7
-excerpt: 'To design an intelligent gatekeeper robot for the property management work of ac￾cess to public places in the new situation, to help the construction of smart communities in the new era.'
+excerpt: 'To design an intelligent gatekeeper robot for the property management work of access to public places in the new situation, to help the construction of smart communities in the new era.'
 date: 2023-6-13
 venue: 'Packaging Engineering'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper7.pdf'
