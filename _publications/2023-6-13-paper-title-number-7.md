@@ -6,7 +6,7 @@ excerpt: 'This paper aim to design an intelligent gatekeeper robot for the prope
 date: 2023-6-13
 venue: 'Packaging Engineering'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper7.pdf'
-citation: 'Yu Menghao, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ[J], Packaging Engineering(2023).'
+citation: 'M.H. Yu and J.J. Cui, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ, Packaging Engineering (2023).'
 ---
 **Abstract:** **Objective** To design an intelligent gatekeeper robot for the property management work of access to public places in the new situation, to help the construction of smart communities in the new era.
 **Methods** Starting from the user requirements, we use AHP analysis to derive the weight values of each 
@@ -20,4 +20,4 @@ designed based on this design process can effectively meet the needs of two user
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper7.pdf)
 
-Recommended citation: Yu Menghao, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ[J], Packaging Engineering：1-14[2023-09-21]（http://kns.cnki.net/kcms/detail/50.1094.tb.20230612.1016.002.html）
+Recommended citation: M.H. Yu and J.J. Cui, Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ, Packaging Engineering：1-14[2023-09-21]（http://kns.cnki.net/kcms/detail/50.1094.tb.20230612.1016.002.html）
