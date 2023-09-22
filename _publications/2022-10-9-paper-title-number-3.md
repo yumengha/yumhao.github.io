@@ -1,5 +1,5 @@
 ---
-title: "Deconstruction of product morphological features and multi-objective optimization in the context of multi-dimensional variable expression models"
+title: "Evaluation of innovative design for battery electric vehicle center console based kansei engineering"
 hide_published_in: true
 collection: publications
 permalink: /publication/2022-10-10-paper-title-number-4
