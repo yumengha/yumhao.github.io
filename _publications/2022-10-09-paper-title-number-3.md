@@ -2,7 +2,7 @@
 title: "Evaluation of innovative design for battery electric vehicle center console based kansei engineering"
 hide_published_in: true
 collection: publications
-permalink: /publication/2022-10-9-paper-title-number-3
+permalink: /publication/2022-10-09-paper-title-number-3
 excerpt: 'This is an English writing exercise intended for submission to an international conference. It is my first attempt at writing a paper in English. The main goal at the time was to practice English writing in preparation for my next submission to an SCI journal.'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper3.pdf'
 citation: 'M.H. Yu, Evaluation of innovative design for battery electric vehicle center console based kansei engineering (2023).'
