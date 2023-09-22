@@ -3,7 +3,7 @@ title: "Research on the Design of Automobile Rear Modeling Based on Kansei Engin
 hide_published_in: true
 collection: publications
 permalink: /publication/2022-10-08-paper-title-number-2
-excerpt: 'This paper was written when I first delved into the field of affective engineering. Having once been a student of the natural sciences, I was drawn to the numerous qualitative and quantitative design methods in the theories of affective engineering..'
+excerpt: 'This paper was written when I first delved into the field of affective engineering. Having once been a student of the natural sciences, I was drawn to the numerous qualitative and quantitative design methods in the theories of kansei engineering..'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper2.pdf'
 citation: 'M.H. Yu, Research on the Design of Automobile Rear Modeling Based on Kansei Engineering (2023).'
 ---
