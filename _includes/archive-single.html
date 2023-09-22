@@ -42,12 +42,8 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.hide_published_in %}
-            {% if post.date %} 
-              <p><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
-            {% else %} 
-              <p><i>{{ post.venue }}</i></p>
-            {% endif %}
-          {% else %}
+            <!-- Do not display anything when hide_published_in is true --> 
+          {% else %} 
             {% if post.date %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
             {% else %}
