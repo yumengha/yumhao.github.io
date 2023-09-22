@@ -2,10 +2,10 @@
 title: "Evaluation of Innovative Design for Battery Electric Vehicle Center Console Based on Kansei Engineering"
 hide_published_in: true
 collection: publications
-permalink: /publication/2022-9-8-paper-title-number-3
+permalink: /publication/2022-10-10-paper-title-number-3
 excerpt: 'This is an English writing exercise intended for submission to an international conference. It's my first attempt at writing a paper in English. The main goal at the time was to practice English writing in preparation for my next submission to an SCI journal.'
 paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper3.pdf'
-citation: 'M.H. Yu, Evaluation of Innovative Design for Battery Electric Vehicle Center Console Based on Kansei Engineering (2023)'
+citation: 'M.H. Yu, Evaluation of Innovative Design for Battery Electric Vehicle Center Console Based on Kansei Engineering (2023).'
 ---
 **Abstract:** With the growth of new energy vehicles, competition in the auto industry is fierce.
 Automotive brands must continuously seek innovative design solutions to secure their market 
@@ -22,7 +22,7 @@ innovative design results of the BEV center console. The research results indica
 center console design elements have a significant difference in the degree of influence on user 
 sensory imagery. The connection transition method between the center console and armrest box 
 has a significant impact on the user’s perception of the simplicity. The usage method of the 
-center screen and the color matching will have a significant impact on its futuristic  
+center screen and the color matching will have a significant impact on its futuristic.  
 **Keywords:** Battery Electric Vehicle; the center console; Kansei Engineering; Perceptual imagery; Design Innovation
 
 
