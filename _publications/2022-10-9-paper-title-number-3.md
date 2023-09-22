@@ -1,12 +1,11 @@
 ---
-title: "Evaluation of Innovative Design for Battery Electric Vehicle Center Console Based on Kansei Engineering"
+title: "Deconstruction of product morphological features and multi-objective optimization in the context of multi-dimensional variable expression models"
+hide_published_in: true
 collection: publications
-permalink: /publication/2022-10-9-paper-title-number-3
-excerpt: 'This is an English writing exercise intended for submission to an international conference. It's my first attempt at writing a paper in English. The main goal at the time was to practice English writing in preparation for my next submission to an SCI journal.'
-date: 2023-3-22
-venue: 'Design'
-paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper3.pdf'
-citation: 'M.H. Yu, Evaluation of Innovative Design for Battery Electric Vehicle Center Console Based on Kansei Engineering, Design (2023).'
+permalink: /publication/2022-10-10-paper-title-number-4
+excerpt: 'This paper is actually the second to last article I have written so far. It is also the first time I have attempted to write an article with the goal of being included in the SCI. This bold attempt was made after I had written a considerable number of papers on Kansei Engineering and Neural Networks, and I believed that I had a certain mastery of the relevant knowledge.'
+paperurl: 'https://yumengha.github.io/yumhao.github.io/files/paper4.pdf'
+citation: 'M.H. Yu, Deconstruction of product morphological features and multi-objective optimization in the context of multi-dimensional variable expression models (2023).'
 ---
 **Abstract:** With the growth of new energy vehicles, competition in the auto industry is fierce.
 Automotive brands must continuously seek innovative design solutions to secure their market 
