@@ -22,4 +22,6 @@ and references for the development of intelligent design of takeaway helmets.
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper9.pdf)
 
-Recommended citation: M.H. Yu, Research on Multi-channel Interactive Design of Intelligent Helmets for Takeaway Riders (2022).
+
+## The Story Behind the Research: A Personal Note
+This article was primarily inspired by my personal experience of delivering takeout during the summer vacation. Through my in-depth personal encounters, I observed various issues within the food delivery industry. I was keen to utilize my acquired knowledge to contribute to the development and improvement of this industry. However, my current level of expertise may still be lacking. Delivery personnel represent a unique working group. As discussed in the article, I hope to improve some of the challenges they face during their work through multi-channel interaction methods. Although my solutions may not yet be fully mature, I believe that the conditions within the food delivery industry will undoubtedly improve in the future.
