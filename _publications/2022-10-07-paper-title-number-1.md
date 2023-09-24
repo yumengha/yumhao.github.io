@@ -19,4 +19,6 @@ product development, assisting designers to make appropriate design decisions an
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper1.pdf)
 
-Recommended citation: M.H. Yu, Research on the design of smart home product form based on neural network (2023).
+
+## The Story Behind the Research: A Personal Note
+This paper was written following the completion of a [previous article]. While working on the last paper, the keyword "neural network" frequently appeared in the related literature. Therefore, when choosing a new topic, I decided to focus on this widely applied technique within the realm of Kansei Engineering. Similar to before, it was essential to understand its concept and application methods. The method of application in the initial preparation was similar to the Quantification Theory Type I. During this period, the main focus was on learning the principles of Artificial Neural Networks, including its three-layer structure, training methods, and the learning platform Matlab, encompassing code principles and parameter settings, among other aspects. Ultimately, the acquired knowledge was successfully applied in this article.
