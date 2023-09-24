@@ -16,7 +16,7 @@ the morphological features of products from three levels: “appearance attribut
 relative method. Then construct the prediction model of MIN separately using back-propagation neural network (BPNN) and 
 it’s embedded in the non-dominated sorting genetic algorithm-Ⅱ (NSGA-Ⅱ) to derive the Pareto optimal solution, which finally 
 resulted in layouts of holistic multidimensional(HM) in Kansei engineering (KE). The research results demonstrate that the 
-proposed construction process and methodology of HM are feasible and effective, with significant guidance and practical application value.
+proposed construction process and methodology of HM are feasible and effective, with significant guidance and practical application value.  
 **Keywords:** Kansei engineering, Multi-dimensional variable, Product form design, Deconstruction method, Optimisation
 
 
