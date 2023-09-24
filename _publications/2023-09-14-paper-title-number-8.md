@@ -23,3 +23,9 @@ based on AIGC.
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper8.pdf)
 
 Recommended citation: M.H. Yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems (2023).
+
+
+##The Story Behind the Research: A Personal Note
+
+
+This article was officially completed on September 14, 2023, and submitted to the Journal of Intelligent & Fuzzy Systems the following day.Given my limited time, it's likely the last article I wrote before formally preparing for my Ph.D. application. This is also the ninth article I've written in formal format during my graduate studies. Because of my previous writing experiences, the topic selection and writing quality of this article represent the best of my capabilities so far. For the topic, I chose the highly sought-after artificial intelligence technology. Before writing, I deeply studied and employed the latest AIGC technology achievements, including ChatGPT 4.0, Midjourney, and Stable Diffusion SDXL 1.0. I also extensively reviewed high-quality AIGC-generated content on websites like CIvital. I've profoundly felt the potential changes AIGC could bring to the design industry. Thus, I penned this article based on my reflections on these new design opportunities, serving as an exploration and attempt at how AIGC can be applied in product design. 
