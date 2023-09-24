@@ -13,7 +13,7 @@ principal component analysis. The significant design elements of the air purifie
 evaluation averages as the output layer. Results The validity of the prediction model was verified using the leave-one-out 
 cross-validation method and case evaluation for the trained BP neural network model. Conclusion The prediction model 
 can effectively solve the matching problem between design elements and perceptual imagery at the preliminary stage of 
-product development, assisting designers to make appropriate design decisions and providing useful reference and guidance for pioneering innovation in the field of smart home product design.
+product development, assisting designers to make appropriate design decisions and providing useful reference and guidance for pioneering innovation in the field of smart home product design.  
 **Keywords:** Smart Home Products; Air Purifier; Stylistic features; Perceptual imagery; BP Neural Network
 
 
