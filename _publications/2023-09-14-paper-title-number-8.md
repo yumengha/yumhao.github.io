@@ -22,8 +22,6 @@ based on AIGC.
 
 [Download paper here](https://yumengha.github.io/yumhao.github.io/files/paper8.pdf)
 
-Recommended citation: M.H. Yu, Construction of computer-aided product innovation design system based on AIGC, Journal of Intelligent & Fuzzy Systems (2023).
-
 
 ## The Story Behind the Research: A Personal Note
 
