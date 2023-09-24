@@ -15,8 +15,7 @@ obtained after screening and summarizing. **Results** According to the results o
 helmet is constructed. **Conclusion** The construction of multi-channel human-computer interaction model forms a set of 
 natural and efficient information flow model, which can well meet the multi-channel interaction needs of delivery riders in 
 the delivery process, providing a multi-channel interaction design method for delivery helmets and providing new ideas 
-and references for the development of intelligent design of takeaway helmets.
-
+and references for the development of intelligent design of takeaway helmets.  
 **Keywords:** Takeaway Riders; Smart Helmets; Multi-channel; Human-computer interaction
 
 
