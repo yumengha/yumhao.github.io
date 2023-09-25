@@ -1,5 +1,4 @@
 ---
-title: Chronicle
 permalink: /chronicle/
 ---
 ## My Chronicle
