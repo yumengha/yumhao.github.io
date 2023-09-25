@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "My Chronicle"
 permalink: /chronicle/
 author_profile: true
