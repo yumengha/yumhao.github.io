@@ -8,5 +8,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.chronicle reversed %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
 {% endfor %}
+
