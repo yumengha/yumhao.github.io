@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Hello**, I am a 24-year-old master's student from the College of Art and Design at Zhengzhou University of Light Industry.I am now in my third year of postgraduate studies. Facing the impending crossroads in my life, I have firmly chosen to continue my academic journey. I've decided to become a researcher, to pursue a doctorate, and to delve deeper into my field of expertise. In reality, the challenges of becoming a doctorate holder and successfully obtaining a PhD might deter some. Furthermore, the monotony and tediousness of academic research can make some feel overwhelmed. Yet, facing these potential challenges and trials, my decision to pursue a doctoral degree is the result of careful and thorough consideration.
+# Hello 
+I am a 24-year-old master's student from the College of Art and Design at Zhengzhou University of Light Industry.I am now in my third year of postgraduate studies. Facing the impending crossroads in my life, I have firmly chosen to continue my academic journey. I've decided to become a researcher, to pursue a doctorate, and to delve deeper into my field of expertise. In reality, the challenges of becoming a doctorate holder and successfully obtaining a PhD might deter some. Furthermore, the monotony and tediousness of academic research can make some feel overwhelmed. Yet, facing these potential challenges and trials, my decision to pursue a doctoral degree is the result of careful and thorough consideration.
 
 Why choose to pursue a doctorate?
 ======
