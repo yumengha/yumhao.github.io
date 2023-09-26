@@ -1,6 +1,6 @@
 ---
-title: Hobbies & Habits
-permalink: /hobbies & habits/
+title: Hobbies
+permalink: /hobbies/
 ---
 ## 1999.03
 I was born in an ordinary small village in Dancheng County, Zhoukou City, Henan Province.
