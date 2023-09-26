@@ -8,7 +8,7 @@ I was born in an ordinary small village in Dancheng County, Zhoukou City, Henan 
 ## 2002.xx
 That year, when I was three, my parents decided to continue working away from home. From that point on, it was just my grandmother and me, depending on each other for a prolonged period.
 
-<img src="/images/ZJZ.png" alt="photo" />
+<img src="/images/ZJZ.png" alt="phot" />
 
 
-![photo](../images/ZJZ.png)
+![photo](../images/ZJZ.png)![photo](../images/ZJZ.png)
