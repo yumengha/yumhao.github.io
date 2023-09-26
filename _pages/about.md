@@ -30,7 +30,7 @@ If you wish to understand me more deeply, you can refer to the [Growth Diary] se
 Additionally, after deciding that I wanted to pursue a doctorate, the efforts I've made towards this goal can be seen in the [publications](https://yumengha.github.io/yumhao.github.io//publications/) section.
 
 Research Interests
-======
+------
 I am focused on user-centered design methods and applications, such as Kansei Engineering, Neural Networks, and related technical means. I am equally interested in the exploration and innovation of these design methods. Additionally, I am very intrigued by the design opportunities brought about by the development of innovative technologies like AIGC.My primary research interests are as follows:
 
 1. User Research
