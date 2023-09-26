@@ -190,6 +190,9 @@ collections:
   chronicle:
     output: true
     permalink: /:collection/:path/
+  hobbies & habits:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: chronicle
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _hobbies & habits
+  - scope:
+      path: ""
+      type: hobbies & habits
     values:
       layout: single
       author_profile: true
