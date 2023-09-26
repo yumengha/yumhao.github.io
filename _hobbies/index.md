@@ -4,7 +4,7 @@ permalink: /hobbies/
 ---
 I am someone who loves sports. In middle school, I was passionate about table tennis. In high school, I took up basketball. However, being a person of a more leisurely temperament, I found that the constant running required in basketball wasn't quite right for me, so I didn't play much in college. During my university days, I would do basic strength training exercises daily in my dormitory. I even purchased relevant equipment, doing simple exercises like push-ups every day. However, I never really followed a structured routine.It was at the start of my postgraduate studies that, through an introduction by a new friend, I stepped into a gym for the first time. I fell in love with working out and officially embarked on my systematic training journey.
 
-![photo](../images/1.jpg)
+<img src="../images/1.png" alt="photo" width="200">
 
 I began my systematic training on October 21, 2021. It's been less than two years since I started working out. In the first year, I followed a three-split routine, working out six days a week and resting one day. In the second year, I shifted to a five-split routine, working out five days and taking a day off, then starting the cycle over. Week after week, it was the same pattern. With such day-to-day consistency and repetition, both my body and mind have undergone significant transformations over these two years.
 
