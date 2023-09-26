@@ -11,8 +11,6 @@ redirect_from:
 # Hello ！ 
 I am a 24-year-old master's student from the College of Art and Design at Zhengzhou University of Light Industry.I am now in my third year of postgraduate studies. Facing the impending crossroads in my life, I have firmly chosen to continue my academic journey. I've decided to become a researcher, to pursue a doctorate, and to delve deeper into my field of expertise. In reality, the challenges of becoming a doctorate holder and successfully obtaining a PhD might deter some. Furthermore, the monotony and tediousness of academic research can make some feel overwhelmed. Yet, facing these potential challenges and trials, my decision to pursue a doctoral degree is the result of careful and thorough consideration.
 
-![phot](/images/foo-bar-identity-th.jpg)
-
 Why choose to pursue a doctorate?
 ======
 During my second year of graduate studies, I reflected on the possible life choices I might face after graduation. Like many others, I had three options. The first was to work in a field related to my major, essentially becoming a designer.The second was to take the civil service exam and join the government system. The third was to continue pursuing a doctorate. Among these three options, considering my unique strengths and characteristics, I chose the third path, which I believe is the most suitable for me.
