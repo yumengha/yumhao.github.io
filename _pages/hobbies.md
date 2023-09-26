@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post-list
 title: "Hobbies & Habits"
 permalink: /hobbies/
 author_profile: true
@@ -8,6 +8,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.hobbies reversed %}
-  {% include archive-single.html %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {{ post.content }}
 {% endfor %}
-
