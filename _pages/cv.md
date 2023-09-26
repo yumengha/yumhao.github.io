@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+MENGHAO YU
+======
+Basic Information
+------
+|* Height:178|*Gender:Man|
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* sddjafgkl
+
+MENGHAO YU
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -17,7 +26,7 @@ Education
 * sddjafgkl
 
 Work experience
-======
+------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
