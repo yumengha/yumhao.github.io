@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Hobbies & Habits"
-permalink: /hobbies & habits/
+title: "Hobbies"
+permalink: /hobbies/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.hobbies & habits reversed %}
+{% for post in site.hobbies reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
