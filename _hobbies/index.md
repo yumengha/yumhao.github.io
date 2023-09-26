@@ -8,7 +8,7 @@ I am someone who loves sports. In middle school, I was passionate about table te
 
 I began my systematic training on October 21, 2021. It's been less than two years since I started working out. In the first year, I followed a three-split routine, working out six days a week and resting one day. In the second year, I shifted to a five-split routine, working out five days and taking a day off, then starting the cycle over. Week after week, it was the same pattern. With such day-to-day consistency and repetition, both my body and mind have undergone significant transformations over these two years.
 
-![photo](../images/2.jpg)
+<img src="../images/2.jpg" alt="photo" width="200">
 
 Physically speaking, fitness is one of those endeavors where you can see tangible results directly proportional to your effort. With daily persistence, I could witness visible improvements in my physique at a noticeable pace. However, the hardest part of fitness is the commitment. When you repeat an action for 365 days, and every day, the moment you pick up your backpack, you already know what comes next, that inherent monotony and mental fatigue is the reason many give up halfway. But without a doubt, if you choose to persist, fitness will never let your efforts go in vain.
 
