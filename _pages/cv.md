@@ -13,7 +13,7 @@ MENGHAO YU
 ======
 Basic Information
 ------
-|* Height:178|*Gender:Man|
+| * Height:178 | *Gender:Man |
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * sddjafgkl
