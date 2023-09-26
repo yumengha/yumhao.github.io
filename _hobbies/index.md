@@ -1,7 +1,6 @@
 ---
 title: Hobbies & Habits
 permalink: /hobbies/
-teaser: /images/ZJZ.png
 ---
 I am someone who loves sports. In middle school, I was passionate about table tennis. In high school, I took up basketball. However, being a person of a more leisurely temperament, I found that the constant running required in basketball wasn't quite right for me, so I didn't play much in college. During my university days, I would do basic strength training exercises daily in my dormitory. I even purchased relevant equipment, doing simple exercises like push-ups every day. However, I never really followed a structured routine.It was at the start of my postgraduate studies that, through an introduction by a new friend, I stepped into a gym for the first time. I fell in love with working out and officially embarked on my systematic training journey.
 
