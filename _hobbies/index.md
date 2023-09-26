@@ -1,5 +1,5 @@
 ---
-title: Hobbies
+title: Hobbies & Habits
 permalink: /hobbies/
 ---
 ## 1999.03
