@@ -11,4 +11,4 @@ That year, when I was three, my parents decided to continue working away from ho
 <img src="/images/ZJZ.png" alt="photo" />
 
 
-![phot](/images/foo-bar-identity-th.jpg)
+[phot](/images/foo-bar-identity-th.jpg)
