@@ -14,7 +14,7 @@ I began my systematic training on October 21, 2021. It's been less than two year
 
 Physically speaking, fitness is one of those endeavors where you can see tangible results directly proportional to your effort. With daily persistence, I could witness visible improvements in my physique at a noticeable pace. However, the hardest part of fitness is the commitment. When you repeat an action for 365 days, and every day, the moment you pick up your backpack, you already know what comes next, that inherent monotony and mental fatigue is the reason many give up halfway. But without a doubt, if you choose to persist, fitness will never let your efforts go in vain.
 
-![photo](../images/3.jpg)
+<img src="../images/3.jpg" alt="photo" width="200">
 
 Mentally, the two hours I spend in the gym each day are a sanctuary. I set aside all electronic devices and temporarily forget all my worries. My mind focuses solely on one thing: executing the current movement with precision. These two hours act as a refueling session after a tiring day. Sweating it out and then taking a shower after the training makes me feel rejuvenated, walking out of the gym filled with renewed vitality and hope. Furthermore, having a healthy body boosts my confidence and keeps me energized in daily life, effectively enhancing my work efficiency.
 
