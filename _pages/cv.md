@@ -80,7 +80,7 @@ Awards
 * Third Prize in the "My Master's Journey" Essay Contest    2021
 
 Skills
-======
+------
 * Rhino
 * keyshot
 * ChatGPT 4.0
@@ -97,7 +97,7 @@ Skills
 * Matlab
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
