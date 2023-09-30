@@ -2,5 +2,6 @@
 title: ""
 collection: portfolio
 ---
+## "Abacus" Night Light
+The inspiration for this design comes from the form of the traditional Chinese counting tool, the "abacus". The brightness of the light can be adjusted by sliding the beads left and right.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
