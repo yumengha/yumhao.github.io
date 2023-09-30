@@ -41,11 +41,8 @@ The design was carried out against the backdrop of rural medical environments, a
 The design contemplates integrating some basic physical examination methods, while adopting 'Internet + Healthcare' smart technology to link data with major hospitals.
 
 <div style="text-align:center;">
-  <img src="../images/12.jpg" alt="photo" width="200"> <img src="../images/13.jpg" alt="photo" width="200">
-</div>
-
-<div style="text-align:center;">
-  <img src="../images/14.jpg" alt="photo" width="200"> <img src="../images/15.jpg" alt="photo" width="200"> <img src="../images/16.jpg" alt="photo" width="200">
+  <img src="../images/12.png" alt="photo" width="200"> <img src="../images/13.png" alt="photo" width="200">
+  <img src="../images/14.png" alt="photo" width="200"> <img src="../images/15.png" alt="photo" width="200"> <img src="../images/16.png" alt="photo" width="200">
 </div>
 
 In terms of design, it adopts an appearance similar to that of a snail, featuring a sleek and lively style. Color-wise, while utilizing the customary black, white, and gray of medical products, details are embellished with blue-green accents, making the product overall more dynamic and fully embodying a sense of humanistic care.
