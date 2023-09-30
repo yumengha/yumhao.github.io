@@ -12,7 +12,7 @@ The inspiration for this design comes from the form of the traditional Chinese c
 The light fixture is primarily divided into two parts, left and right, connected by an arch structure in the middle. This design allows the beads on both sides to slide, adjusting the brightness of the light based on the number of beads on the left side.
 
 <div style="text-align:center;">
-  <img src="../images/7.png" alt="photo" width="200">
+  <img src="../images/7.png" alt="photo" width="300">
 </div>
 
 In terms of details, starting with the design of the beads, their overall shape is more rounded, resembling a full "persimmon". The smooth shape not only imparts a warm and gentle feeling, complementing the ambiance of the light fixture, but the overall design of the fixture also resembles a handheld fruit basket. The full persimmon shape evokes a sense of abundance and a warm atmosphere.
@@ -41,8 +41,8 @@ The design was carried out against the backdrop of rural medical environments, a
 The design contemplates integrating some basic physical examination methods, while adopting 'Internet + Healthcare' smart technology to link data with major hospitals.
 
 <div style="text-align:center;">
-  <img src="../images/12.png" alt="photo" width="200"> <img src="../images/13.png" alt="photo" width="200">  
-  <img src="../images/14.png" alt="photo" width="200"> <img src="../images/15.png" alt="photo" width="200"> <img src="../images/16.png" alt="photo" width="200">
+  <img src="../images/12.png" alt="photo" width="100"> <img src="../images/13.png" alt="photo" width="100">  
+  <img src="../images/14.png" alt="photo" width="100"> <img src="../images/15.png" alt="photo" width="100"> <img src="../images/16.png" alt="photo" width="100">
 </div>
 
 In terms of design, it adopts an appearance similar to that of a snail, featuring a sleek and lively style. Color-wise, while utilizing the customary black, white, and gray of medical products, details are embellished with blue-green accents, making the product overall more dynamic and fully embodying a sense of humanistic care.
@@ -51,5 +51,5 @@ In terms of design, it adopts an appearance similar to that of a snail, featurin
 The overall design of this piece draws inspiration from the traditional musical instruments of Xinjiang and the stands used to place them. Moreover, patterns unique to Xinjiang are incorporated into the design, further emphasizing the local cultural characteristics.
 
 <div style="text-align:center;">
-  <img src="../images/17.jpg" alt="photo" width="200">
+  <img src="../images/17.jpg" alt="photo" width="250">
 </div>
