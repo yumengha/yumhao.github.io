@@ -41,7 +41,7 @@ The design was carried out against the backdrop of rural medical environments, a
 The design contemplates integrating some basic physical examination methods, while adopting 'Internet + Healthcare' smart technology to link data with major hospitals.
 
 <div style="text-align:center;">
-  <img src="../images/12.png" alt="photo" width="200"> <img src="../images/13.png" alt="photo" width="200">
+  <img src="../images/12.png" alt="photo" width="200"> <img src="../images/13.png" alt="photo" width="200">  
   <img src="../images/14.png" alt="photo" width="200"> <img src="../images/15.png" alt="photo" width="200"> <img src="../images/16.png" alt="photo" width="200">
 </div>
 
