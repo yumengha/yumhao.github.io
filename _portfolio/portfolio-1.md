@@ -6,7 +6,7 @@ collection: portfolio
 The inspiration for this design comes from the form of the traditional Chinese counting tool, the "abacus". The brightness of the light can be adjusted by sliding the beads left and right.
 
 <div style="text-align:center;">
-  <img src="../images/5.jpg" alt="photo" width="200"> <img src="../images/6.jpg" alt="photo" width="200">
+  <img src="../images/5.png" alt="photo" width="200"> <img src="../images/6.jpg" alt="photo" width="200">
 </div>
 
 The light fixture is primarily divided into two parts, left and right, connected by an arch structure in the middle. This design allows the beads on both sides to slide, adjusting the brightness of the light based on the number of beads on the left side.
