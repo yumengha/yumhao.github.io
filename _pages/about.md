@@ -20,16 +20,16 @@ In my second year of graduate studies, I pondered the paths I might take after g
 
 2. **Ability**.From my early days, the environment I was raised in instilled in me a penchant for deep, independent exploration, fostering robust self-learning skills.Transitioning from a science background to the vibrant realm of design in college was a leap — from mathematical equations to expressive hand sketches. Yet, I navigated this transformation seamlessly, leaning into my inherent adaptability. Throughout my undergraduate journey and as I prepared for postgraduate exams, I never sought specialized drawing tutorials. Armed only with sketching manuals and relentless practice, I earned my place as a master's student in art and design. Notably, I was the lone student in my batch with a science background and without formal drawing class training. It's this innate ability to learn and adapt that fuels my confidence to embrace a research-oriented life.
 
-From sharing about my upbringing and my postgraduate entrance exam experience, on one hand, I aim to explain the reasons for my choice to pursue a doctorate based on my personal circumstances. On the other hand, I also wish to demonstrate something to the professors:
+Sharing my experiences,my purpose is twofold. First, to highlight the deep-seated motivations that steer me towards a doctorate. And second, to extend a sincere promise to the professors:
 
 **If chosen, although I may not be the best, I will certainly be the most hardworking one.**  
-Please believe that I am not lacking in the effort to embrace success. What I lack is a better platform and resources.Hence, I've chosen to continue my climb on the academic path, and I choose to become your student and pursue further studies.
+Please believe that I am not lacking in the effort to embrace success. What I lack is a better platform and resources.Therefore, I am committed to advancing further in academia, hoping to do so under your esteemed guidance.
 
 
-As for why I say this, I hope to continue showing you a sincere and hardworking side of me, but this might take some of your time:
+For a deeper understanding of my commitment and sincerity, I invite you to invest a few moments:
 
-If you wish to understand me more deeply, you can refer to the [Growth Diary] section.
-Additionally, after deciding that I wanted to pursue a doctorate, the efforts I've made towards this goal can be seen in the [publications](https://yumengha.github.io/yumhao.github.io//publications/) section.
+To witness the tangible strides I've taken since my decision to pursue a doctorate, explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.
+For insights into my personal journey, please visit the [Chronicle](https://yumengha.github.io/yumhao.github.io//chronicle/) section.
 
 Research Interests
 ------
