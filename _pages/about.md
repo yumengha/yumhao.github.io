@@ -32,8 +32,8 @@ For a deeper understanding of my commitment and sincerity, I respectfully invite
 
 - To witness the efforts I've made and the tangible progress I've achieved since deciding to pursue a doctorate, please explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.  
 - For insights into my personal journey, please visit the [Chronicle](https://yumengha.github.io/yumhao.github.io//chronicle/) section.
-- The portfolio showcases a selection of my design works.
-- Within the Hobbies section, I present my longstanding dedication to physical fitness.
+- The [Portfolio](https://yumengha.github.io/yumhao.github.io//portfolio/) showcases a selection of my design works.
+- Within the [Hobbies](https://yumengha.github.io/yumhao.github.io//hobbies/) section, I present my longstanding dedication to physical fitness.
 
 Research Interests
 ------
