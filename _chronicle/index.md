@@ -18,11 +18,12 @@ During the busy farming season, it was common to see an old and a young figure i
 That year, I was **11**. While most of my childhood friends chose to attend better junior high schools in the county, I still decided to stay in the local town school. Even though it was just a small junior high school in a tiny town, the new environment and boarding lifestyle made me feel extremely uneasy and confined.
 ## 2013.07
 When I was **14**, I successfully entered the Second Senior High School of Dancheng County. Looking back at my high school years, it was a journey of continuous upward progression through my efforts:  
-At that time, the high school classified classes based on academic performance.  
+*At that time, the high school classified classes based on academic performance.*  
 - When I first entered high school, I was placed in the **lowest-performing class** of the entire freshman year.
 - Through hard work, by the end of my freshman year when students were separated into arts and sciences streams, I moved up to a slightly better **Foundation Class**.
 - As I progressed from the first to the second year of high school, I was placed in the school's **Key Focus Class**.
 - Moving from the second to the third year, I entered the school's **High Ambition Class**.  
+
 And during the college entrance examination, I achieved my best results since joining this class, catching everyone by surprise.
 ## 2016.09
 At the age of **17**, I was admitted to the School of Art and Design at Henan University of Technology, majoring in Industrial Design. From then on, the calculator in my hand was replaced by a 2B pencil. Everything started anew, beginning with every single line, marking the commencement of my new academic journey.
