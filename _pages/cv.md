@@ -90,3 +90,4 @@ Skills
 
 Publications
 ------
+[Construction of computer-aided product innovation design system based on AIGC](https://yumengha.github.io/yumhao.github.io//publication/2023-9-14-paper-title-number-8)
