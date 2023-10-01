@@ -28,7 +28,7 @@ The design is inspired by the traditional Chinese poem which states, "In the sky
 Addressing the 'last-mile' challenge of domestic express delivery, an autonomous delivery vehicle designed for communities has been introduced. The overall vehicle design is straightforward and clear, with robust and bold lines. The sapphire blue body further enhances its elegance and refinement.
 
 <div style="text-align:center;">
-  <img src="../images/10.png" alt="photo" width="200">
+  <img src="../images/10.png" alt="photo" width="300">
 </div>
 
 ## "Wanny" Home Medical Aid Product
