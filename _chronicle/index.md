@@ -22,7 +22,7 @@ At that time, the high school classified classes based on academic performance.
 - When I first entered high school, I was placed in the **lowest-performing class** of the entire freshman year.
 - Through hard work, by the end of my freshman year when students were separated into arts and sciences streams, I moved up to a slightly better **Foundation Class**.
 - As I progressed from the first to the second year of high school, I was placed in the school's **Key Focus Class**.
-- Moving from the second to the third year, I entered the school's **High Ambition Class**.
+- Moving from the second to the third year, I entered the school's **High Ambition Class**.  
 And during the college entrance examination, I achieved my best results since joining this class, catching everyone by surprise.
 ## 2016.09
 At the age of **17**, I was admitted to the School of Art and Design at Henan University of Technology, majoring in Industrial Design. From then on, the calculator in my hand was replaced by a 2B pencil. Everything started anew, beginning with every single line, marking the commencement of my new academic journey.
