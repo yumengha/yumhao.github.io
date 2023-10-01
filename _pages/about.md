@@ -24,7 +24,7 @@ In my second year of graduate studies, I pondered the paths I might take after g
 
 Sharing my experiences,my purpose is twofold. First, to highlight the deep-seated motivations that steer me towards a doctorate. And second, to extend a sincere promise to the professors:
 
-> If chosen, although I may not be the best, I will certainly be the most hardworking one. 
+> *If chosen, although I may not be the best, I will certainly be the most hardworking one.* 
 > Please believe that I am not lacking in the effort to embrace success. What I lack is a better platform and resources.Therefore, I am committed to advancing further in academia, hoping to do so under your esteemed guidance.
 
 
