@@ -10,7 +10,7 @@ redirect_from:
 
 # Hello ！ 
 I'm a 24-year-old master's student from the College of Art and Design at Zhengzhou University of Light Industry, currently in my third year.   
-As I stand at this crucial juncture in life, I've resolutely chosen to deepen my academic pursuits by seeking a doctoral degree.Despite understanding the challenges and pressures of a doctoral degree, and knowing the monotony and repetition of research that can deter many, I remain resolute in my pursuit of a PhD. This decision stems from deep reflection.
+> As I stand at this crucial juncture in life, I've resolutely chosen to deepen my academic pursuits by seeking a doctoral degree.Despite understanding the challenges and pressures of a doctoral degree, and knowing the monotony and repetition of research that can deter many, I remain resolute in my pursuit of a PhD. This decision stems from deep reflection.
 
 Why choose to pursue a doctorate?
 ======
