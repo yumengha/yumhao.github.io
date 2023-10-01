@@ -28,7 +28,7 @@ Please believe that I am not lacking in the effort to embrace success. What I la
 
 For a deeper understanding of my commitment and sincerity, I invite you to invest a few moments:
 
-To witness the tangible strides I've taken since my decision to pursue a doctorate, explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.
+To witness the tangible strides I've taken since my decision to pursue a doctorate, explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.  
 For insights into my personal journey, please visit the [Chronicle](https://yumengha.github.io/yumhao.github.io//chronicle/) section.
 
 Research Interests
