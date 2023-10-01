@@ -39,16 +39,8 @@ Language Skills
   * Date：2022.10
 
 * CET 4
-  * Score：
-  * Date：
-
-Student Cadres
-------
-* Study Commissary
-  * 2016-2020
-  * Experience：During my tenure, I was primarily responsible for conveying the learning tasks and requirements set by the subject teachers in the class group chat. I reminded my classmates to complete their homework on 
-    time and was in charge of collecting and submitting it to the teachers. At the same time, I understood the challenges faced by my classmates in their studies and communicated with the subject teachers in a timely 
-    manner.
+  * Score：476
+  * Date：2019.12
 
 Social Practice
 ------
@@ -98,6 +90,3 @@ Skills
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
