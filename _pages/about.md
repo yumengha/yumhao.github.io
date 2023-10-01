@@ -26,25 +26,25 @@ Sharing my experiences,my purpose is twofold. First, to highlight the deep-seate
 Please believe that I am not lacking in the effort to embrace success. What I lack is a better platform and resources.Therefore, I am committed to advancing further in academia, hoping to do so under your esteemed guidance.
 
 
-For a deeper understanding of my commitment and sincerity, I invite you to invest a few moments:
+For a deeper understanding of my commitment and sincerity, I respectfully invite you to invest a few moments:
 
-To witness the tangible strides I've taken since my decision to pursue a doctorate, explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.  
+To witness the efforts I've made and the tangible progress I've achieved since deciding to pursue a doctorate, please explore the [Publications](https://yumengha.github.io/yumhao.github.io//publications/) section.  
 For insights into my personal journey, please visit the [Chronicle](https://yumengha.github.io/yumhao.github.io//chronicle/) section.
 
 Research Interests
 ------
 I am focused on user-centered design methods and applications, such as Kansei Engineering, Neural Networks, and related technical means. I am equally interested in the exploration and innovation of these design methods. Additionally, I am very intrigued by the design opportunities brought about by the development of innovative technologies like AIGC.My primary research interests are as follows:
 
-1. User Research
-2. Design Methods and Strategies
-3. Computer-Aided Design
-4. Artificial Intelligence
+1. Computer-Aided Design
+2. Human-Computer Intelligent Interaction
+3. Design Methods and Strategies
+4. User Research
 
 Education
 ------
 [Zhengzhou University of Light Industry](https://www.zzuli.edu.cn/)，  Master，  2021-2024
 
-College of art and design，  Art&Design
+College of art and design，  Art & Design
 
 [Henan University of Science and Technology](https://www.haust.edu.cn/)， Undergraduate， 2016-2020
 
