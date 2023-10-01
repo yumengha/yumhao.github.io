@@ -35,10 +35,10 @@ Addressing the 'last-mile' challenge of domestic express delivery, an autonomous
 The design was carried out against the backdrop of rural medical environments, aiming to assist elderly residents left behind in rural households to access medical care more effectively and to help improve the medical conditions in rural areas.
 
 <div style="text-align:center;">
-  <img src="../images/11.jpg" alt="photo" width="200">
+  <img src="../images/11.jpg" alt="photo" width="250">
 </div>
 
-The design contemplates integrating some basic physical examination methods, while adopting 'Internet + Healthcare' smart technology to link data with major hospitals.
+The design contemplates integrating some basic physical examination methods, while adopting "Internet + Healthcare" smart technology to link data with major hospitals.
 
 <div style="text-align:center;">
   <img src="../images/12.png" alt="photo" width="100"> <img src="../images/13.png" alt="photo" width="100">  
