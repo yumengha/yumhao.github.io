@@ -90,4 +90,20 @@ Skills
 
 Publications
 ------
-[Construction of computer-aided product innovation design system based on AIGC](https://yumengha.github.io/yumhao.github.io//publication/2023-9-14-paper-title-number-8)
+[Construction of computer-aided product innovation design system based on AIGC](https://yumengha.github.io/yumhao.github.io//publication/2023-9-14-paper-title-number-8) 
+
+[Research on the design of intelligent janitorial robot based on AHP/QFD/TRIZ](https://yumengha.github.io/yumhao.github.io//publication/2023-6-13-paper-title-number-7)
+
+[Visual analysis of ageing-friendly product design research based on knowledge mapping](https://yumengha.github.io/yumhao.github.io//publication/2023-4-5-paper-title-number-6)
+
+[Research on the design of elderly community interconnection products based on Kano-AHP](https://yumengha.github.io/yumhao.github.io//publication/2023-3-22-paper-title-number-5)
+
+[Deconstruction of product morphological features and multi-objective optimization in the context of multi-dimensional variable expression models](https://yumengha.github.io/yumhao.github.io//publication/2022-10-10-paper-title-number-4)
+
+[Evaluation of innovative design for battery electric vehicle center console based kansei engineering](https://yumengha.github.io/yumhao.github.io//publication/2022-10-9-paper-title-number-3)
+
+[Research on the Design of Automobile Rear Modeling Based on Kansei Engineering](https://yumengha.github.io/yumhao.github.io//publication/2022-10-8-paper-title-number-2)
+
+[Research on the design of smart home product form based on neural network](https://yumengha.github.io/yumhao.github.io//publication/2022-10-7-paper-title-number-1)
+
+[Research on Multi-channel Interactive Design of Intelligent Helmets for Takeaway Riders](https://yumengha.github.io/yumhao.github.io//publication/2022-10-6-paper-title-number-9)
