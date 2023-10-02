@@ -12,15 +12,6 @@ main:
   - title: "Hobbies"
     url: /hobbies/
     
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
 
