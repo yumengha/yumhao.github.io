@@ -28,6 +28,7 @@ And during the college entrance examination, I achieved my best results since jo
 ## 2016.09
 At the age of **17**, I was admitted to the School of Art and Design at *Henan University of Technology*, majoring in Industrial Design. From then on, the calculator in my hand was replaced by a 2B pencil. Everything started anew, beginning with every single line, marking the commencement of my new academic journey.
 ## 2019.06
+### Graduate Exam: Round One
 When I turned **20**, after weighing various factors, I decided to take the *postgraduate entrance examination*. In the first year, I set my sights high and applied to Zhejiang University of Technology. Unfortunately, it ended in failure.
 ## 2020.06
 At **21**, the sudden outbreak of the COVID-19 pandemic abruptly ended our graduation ceremony. We were thrust into society unexpectedly.   
@@ -35,6 +36,7 @@ At **21**, the sudden outbreak of the COVID-19 pandemic abruptly ended our gradu
 
 After careful consideration, I decided to pursue further studies and prepare for *postgraduate entrance exams*.  
 
+### Graduate Exam: Round Two
 After my initial setback, my primary goal for the year was to secure a spot in graduate school. I chose to return to my family's new house in my hometown to prepare for the postgraduate examination alone. As time went on, I realized that this learning environment, isolated at home, suited me better. My study efficiency was notably higher than during my first year of preparation. Thus, I spent my days in solitude, memorizing, solving problems, and practicing hand-drawing. After several months of hard work, I successfully got admitted to Zhengzhou University of Light Industry. Throughout both postgraduate exam preparations, I never enrolled in any hand-drawing tutoring classes. The only companions I had were hand-drawing guidebooks from various institutions.
 ## 2021.09
 At **22**, I successfully entered the School of Art and Design at Zhengzhou University of Light Industry, becoming a master's student.
