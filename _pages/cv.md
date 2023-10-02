@@ -78,6 +78,7 @@ Skills
 * jupyter
 * SPSS
 * Matlab
+* ...
 
 Publications
 ------
