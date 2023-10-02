@@ -41,14 +41,6 @@ Language Skills
   * Score：476
   * Date：2019.12
 
-Social Practice
-------
-* Social practice activities for postgraduate students during the winter vacation in 2022 under the normalized COVID-19 prevention and control measures
-  * 2022.01-2023.02
-  * Experience：During the winter break, I actively responded to the call of the nation and my school, and participated in the pandemic prevention and control efforts in my hometown as a volunteer.Because my hometown is located in the countryside, where social security 
-    facilities lag behind during the pandemic prevention and control period, I volunteered to become a community helper. During this time, I went from house to house, promoting and urging neighbors to follow pandemic prevention guidelines, inquiring about the daily 
-    needs of the farming households, and assisting the village in distributing and purchasing daily necessities.
-
 Project Experience
 ------
 * "Inherent" Brand Series Product Design
