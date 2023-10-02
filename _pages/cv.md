@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV]((https://yumengha.github.io/yumhao.github.io/files/paper10.pdf))
+[Download my CV](https://yumengha.github.io/yumhao.github.io/files/paper10.pdf)
 
 MENGHAO YU
 ======
