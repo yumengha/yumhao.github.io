@@ -21,7 +21,7 @@ Basic Information
 * Nationality: Han
 * Date of birth: 1999.03.03
 * Phone: 15249692399
-* Email: m.h.yu@foxmail.com
+* Email: 332105020409@email.zzuli.cn
 
 Education
 ------
