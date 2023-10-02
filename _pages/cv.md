@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV_ENG  
-Download my CV_Chinese
+[Download my CV](https://github.com/yumengha/yumhao.github.io/blob/master/files/paper10.pdf)
 
 MENGHAO YU
 ======
